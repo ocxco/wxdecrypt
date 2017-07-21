@@ -1,0 +1,21 @@
+{
+    "name": "ocxco/wxdecrypt",
+    "description": "微信小程序解密工具composer版",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cxc",
+            "email": "xuechaoc@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "WxDecrypt\\":"wxdecrypt"
+        }
+    }
+
+}
