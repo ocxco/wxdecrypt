@@ -1,6 +1,6 @@
 <?php
 
-include_once "vendor/autoload.php";
+include_once __DIR__ . "/../../autoload.php";
 
 
 $appid = 'wx4f4bc4dec97d474b';
